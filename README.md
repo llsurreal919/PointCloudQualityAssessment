@@ -6,6 +6,7 @@ Objective quality assessment for point cloud is critical for various real applic
 
 ## Diagram of the paper
 
+The diagram of the proposed point cloud quality assessment model
 ![flowchart](C:\Users\Vow_Night\Desktop\image\flowchart.jpg)
 
 
