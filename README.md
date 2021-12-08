@@ -13,7 +13,7 @@ The diagram of the proposed point cloud quality assessment model.
 
 ## Experimental Results
 
-1.SJTU-PCQA
+1.SJTU-PCQA Database
 
 Model Performance on SJTU-PCQA Database(PLCC，SROCC，RMSE).
 
@@ -31,10 +31,30 @@ Scatter plots for all eight models.
 ![GraphSIM](C:\Users\Vow_Night\Desktop\image\GraphSIM.jpg)
 ![Proposed](C:\Users\Vow_Night\Desktop\image\Proposed.jpg)
 
-2.ICIP2020
+2.ICIP2020 Database
 
 Model Performance on ICIP2020 Database(PLCC，SROCC，RMSE).
 
 ![ICIP](C:\Users\Vow_Night\Desktop\image\ICIP.png)
 
+3.IRPC Database
+
+Model Performance on IRPC Database(PLCC，SROCC，RMSE).
+
+![IRPC](C:\Users\Vow_Night\Desktop\image\IRPC.png)
+
+4.G-PCD Database
+
+Model Performance on G-PCD Database(PLCC，SROCC，RMSE).
+
+![G-PCD](C:\Users\Vow_Night\Desktop\image\G-PCD.png)
+
+5.Time Complexity
+
+Comparison of the time complexity of the other two models(3D-2D-PE and GraphSIM) and our proposed model
+
+![time](C:\Users\Vow_Night\Desktop\image\time.png)
+
 ## Code
+
+Source code will be provided once the paper has been accepted
