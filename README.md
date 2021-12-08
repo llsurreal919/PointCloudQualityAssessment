@@ -13,16 +13,28 @@ The diagram of the proposed point cloud quality assessment model.
 
 ## Experimental Results
 
-（1）SJTU-PCQA
+1.SJTU-PCQA
 
-Model Performance on SJTU-PCQA Database.
+Model Performance on SJTU-PCQA Database(PLCC，SROCC，RMSE).
+
 ![SJTU-PCQA](C:\Users\Vow_Night\Desktop\image\SJTU-PCQA.png)
+
+
+Scatter plots for all eight models.
+
 ![p2po](C:\Users\Vow_Night\Desktop\image\p2po.jpg)
 ![p2po-H](C:\Users\Vow_Night\Desktop\image\p2po-H.jpg)
 ![p2pl](C:\Users\Vow_Night\Desktop\image\p2pl.jpg)
 ![p2pl-H](C:\Users\Vow_Night\Desktop\image\p2pl-H.jpg)
+![AS](C:\Users\Vow_Night\Desktop\image\AS.jpg)
+![3D-2D-PE](C:\Users\Vow_Night\Desktop\image\3D-2D-PE.jpg)
+![GraphSIM](C:\Users\Vow_Night\Desktop\image\GraphSIM.jpg)
+![Proposed](C:\Users\Vow_Night\Desktop\image\Proposed.jpg)
 
+2.ICIP2020
 
+Model Performance on ICIP2020 Database(PLCC，SROCC，RMSE).
 
+![ICIP](C:\Users\Vow_Night\Desktop\image\ICIP.png)
 
 ## Code
