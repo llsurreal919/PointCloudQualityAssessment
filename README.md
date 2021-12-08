@@ -6,13 +6,21 @@ Objective quality assessment for point cloud is critical for various real applic
 
 ## Diagram of the paper
 
-The diagram of the proposed point cloud quality assessment model
+The diagram of the proposed point cloud quality assessment model.
+
 ![flowchart](C:\Users\Vow_Night\Desktop\image\flowchart.jpg)
 
 
 ## Experimental Results
 
 （1）SJTU-PCQA
+
+Model Performance on SJTU-PCQA Database.
+![SJTU-PCQA](C:\Users\Vow_Night\Desktop\image\SJTU-PCQA.png)
+![p2po](C:\Users\Vow_Night\Desktop\image\p2po.jpg)
+![p2po-H](C:\Users\Vow_Night\Desktop\image\p2po-H.jpg)
+![p2pl](C:\Users\Vow_Night\Desktop\image\p2pl.jpg)
+![p2pl-H](C:\Users\Vow_Night\Desktop\image\p2pl-H.jpg)
 
 
 
