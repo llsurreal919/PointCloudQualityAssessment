@@ -15,12 +15,12 @@ The diagram of the proposed point cloud quality assessment model.
 
 1.SJTU-PCQA Database
 
-Model Performance on SJTU-PCQA Database(PLCC，SROCC，RMSE).
+(1)Model Performance on SJTU-PCQA Database(PLCC，SROCC，RMSE).
 
 ![SJTU-PCQA](C:\Users\Vow_Night\Desktop\image\SJTU-PCQA.png)
 
 
-Scatter plots for all eight models.
+(2)Scatter plots for all eight models.
 
 ![p2po](C:\Users\Vow_Night\Desktop\image\p2po.jpg)
 ![p2po-H](C:\Users\Vow_Night\Desktop\image\p2po-H.jpg)
