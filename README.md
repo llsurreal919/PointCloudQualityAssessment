@@ -7,7 +7,7 @@ Objective quality assessment for point cloud is critical for various real applic
 ## Diagram of the paper
 
 <p align="center">
-    < img src="image/flowchart.jpg" width="960"> <br />
+    < img src="img/flowchart.jpg" width="960"> <br />
     <em> Pressure test for ×4 SR model. </em>
 </p >
 
