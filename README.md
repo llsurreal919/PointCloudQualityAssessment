@@ -8,7 +8,7 @@ Objective quality assessment for point cloud is critical for various real applic
 
 The diagram of the proposed point cloud quality assessment model.
 
-![flowchart](image\flowchart.jpg)
+![flowchart](image/flowchart.jpg)
 
 
 ## Experimental Results
@@ -17,43 +17,43 @@ The diagram of the proposed point cloud quality assessment model.
 
 (1)Model Performance on SJTU-PCQA Database(PLCC，SROCC，RMSE).
 
-![SJTU-PCQA](image\SJTU-PCQA.png)
+![SJTU-PCQA](image/SJTU-PCQA.png)
 
 
 (2)Scatter plots for all eight models.
 
-![p2po](image\p2po.jpg)
-![p2po-H](image\p2po-H.jpg)
-![p2pl](image\p2pl.jpg)
-![p2pl-H](image\p2pl-H.jpg)
-![AS](image\AS.jpg)
-![3D-2D-PE](image\3D-2D-PE.jpg)
-![GraphSIM](image\GraphSIM.jpg)
-![Proposed](image\Proposed.jpg)
+![p2po](image/p2po.jpg)
+![p2po-H](image/p2po-H.jpg)
+![p2pl](image/p2pl.jpg)
+![p2pl-H](image/p2pl-H.jpg)
+![AS](image/AS.jpg)
+![3D-2D-PE](image/3D-2D-PE.jpg)
+![GraphSIM](image/GraphSIM.jpg)
+![Proposed](image/Proposed.jpg)
 
 2.ICIP2020 Database
 
 Model Performance on ICIP2020 Database(PLCC，SROCC，RMSE).
 
-![ICIP](image\ICIP.png)
+![ICIP](image/ICIP.png)
 
 3.IRPC Database
 
 Model Performance on IRPC Database(PLCC，SROCC，RMSE).
 
-![IRPC](image\IRPC.png)
+![IRPC](image/IRPC.png)
 
 4.G-PCD Database
 
 Model Performance on G-PCD Database(PLCC，SROCC，RMSE).
 
-![G-PCD](image\G-PCD.png)
+![G-PCD](image/G-PCD.png)
 
 5.Time Complexity
 
 Comparison of the time complexity of the other two models(3D-2D-PE and GraphSIM) and our proposed model
 
-![time](image\time.png)
+![time](image/time.png)
 
 ## Code
 
