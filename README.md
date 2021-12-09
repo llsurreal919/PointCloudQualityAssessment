@@ -57,4 +57,5 @@ Comparison of the time complexity of the other two models(3D-2D-PE and GraphSIM)
 
 ## Code
 
-Source code will be available soon.
+You can perform B of A to obtain an objective quality score for the distortion point cloud
+
