@@ -57,5 +57,5 @@ Comparison of the time complexity of the other two models(3D-2D-PE and GraphSIM)
 
 ## Code
 
-You can perform "**test.m**" in file "code" to obtain an objective quality score for the distortion point cloud
+You can execute "**test.m**" in file "code" to obtain an objective quality score for the distortion point cloud
 
